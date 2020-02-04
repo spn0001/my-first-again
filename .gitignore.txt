@@ -1,0 +1,4 @@
+#Password Files
+pwd/
+#License Key
+*.key
